@@ -1,6 +1,6 @@
 {
   "name": "sn-vagabond",
-  "version": "0.0.1",
+  "version": "0.0.4v",
   "description": "A Web UI for managing VirtualBox Appliances and Instances",
   "maintainers": [
     {
