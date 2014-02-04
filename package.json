@@ -1,7 +1,7 @@
 {
-  "name": "sn-admin",
-  "version": "0.0.3",
-  "description": "Web-Based Administrative Interface (mostly) for Headless Devices",
+  "name": "sn-vagabond",
+  "version": "0.0.1",
+  "description": "A Web UI for managing VirtualBox Appliances and Instances",
   "maintainers": [
     {
       "name": "Meadhbh Hamrick",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/smithee-us/sn-admin"
+    "url": "https://github.com/OhMeadhbh/sn-vagabond"
   },
   "dependencies": {
     "sn-core": ">= 0.0.12",

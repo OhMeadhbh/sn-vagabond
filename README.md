@@ -1,4 +1,4 @@
-sn-admin
-========
+sn-vagabond
+===========
 
-Web-Based Administrative Interface for Headless Devices
+A Web UI for managing VirtualBox Appliances and Instances
